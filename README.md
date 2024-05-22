@@ -1,1 +1,1 @@
-# AI_Machine_Learning_8
+# AI_Machine_Learning_8 Работу выполнил Кенесбаев Х.К ИВТ-б-о-22-1
